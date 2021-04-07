@@ -1,5 +1,5 @@
-## Simple Tetris game
-###Text-mode console implementation
+# Simple Tetris game
+### Text-mode console implementation
 
 - 20x20 board
 - Reload of the board triggered by user move
@@ -18,5 +18,5 @@
 
 - (e)xit
 
-###Run
+### Run
 >python main.py
