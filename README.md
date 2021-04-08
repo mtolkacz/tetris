@@ -9,6 +9,7 @@
 - Letter L
 - Rotated L letter
 - Line
+- Lightening
 
 **4 moves and exit:**
 - (a) left
